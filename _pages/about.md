@@ -26,7 +26,7 @@ I am especially interested in how we can use **decolonial computing** techniques
 
 # Prior Experience
 
-I was recently a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/i/flow/login?redirect_after_login=%2FCompHCILab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory, and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.
+I was recently a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/i/flow/login?redirect_after_login=%2FCompHCILab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.
 
 # Contact Me
 

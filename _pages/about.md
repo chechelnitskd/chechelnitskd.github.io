@@ -18,7 +18,7 @@ Hi, I'm Dan! Here is some information about me:
 
 I am broadly interested in natural language processing, human-computer interaction, and **computational social justice**. 
 
-I am especially interested in how we can use **decolonial computing** techniques as part of algorithmic audits and qualitative analyses to expose and combat the **systematic and systemic social and cultural biases** prevelant in language models.
+I am especially interested in how we can use **decolonial computing** techniques as part of algorithmic audits and qualitative analyses to expose and combat the **systematic and systemic social and cultural biases** prevalent in language models.
 
 # Highlights
 

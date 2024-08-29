@@ -16,9 +16,9 @@ Hi, I'm Dan! Here is some information about me:
 
 # Interests
 
-I am broadly interested in natural language processing, human computer interaction, and computational social justice. 
+I am broadly interested in natural language processing, human-computer interaction, and **computational social justice**. 
 
-I am especially interested in how we can use **decolonial computing** techniques as part of **algorithmic audits** and qualitative analyses of large language models to combat the **systematic social and cultural biases** these systems contain.
+I am especially interested in how we can use **decolonial computing** techniques as part of algorithmic audits and qualitative analyses of language models to expose and combat the **systematic social and cultural biases** these systems contain.
 
 # Highlights
 
@@ -30,4 +30,4 @@ I was recently a research assistant for [Nikola Banovic](https://www.nikolabanov
 
 # Contact Me
 
-Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:dchechel@cmu.edu) for good measure.
+Please feel free to contact me! My email address is [dchechel [AT] cmu [DOT] edu](mailto:dchechel@cmu.edu), but it is also linked on the sidebar for good measure.

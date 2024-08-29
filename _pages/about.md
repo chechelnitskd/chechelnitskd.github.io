@@ -30,4 +30,4 @@ I was recently a research assistant for [Nikola Banovic](https://www.nikolabanov
 
 # Contact Me
 
-Please feel free to contact me! My email address is [dchechel [AT] cmu [DOT] edu](mailto:dchechel@cmu.edu), but it is also linked on the sidebar for good measure.
+Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:dchechel@cmu.edu) for good measure.

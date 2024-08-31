@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dan's Website"
 title_separator          : "-"
-name                     : &name "Dan Chechelnitsky"
+name                     : &name "Daniel Chechelnitsky"
 description              : &description "personal description"
 url                      : "https://chechelnitskd.github.io" # changing this breaks it--probably change once push
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dan Chechelnitsky"
+  name             : "Daniel Chechelnitsky"
   avatar           : "profile.png"
   bio              : "PhD Student at Carnegie Mellon University"
   location         : "Pittsburgh, PA"

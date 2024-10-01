@@ -17,7 +17,7 @@ Hi, I'm Dan! Here is some information about me:
 # Interests
 - I am broadly interested in **computational social science**, natural language processing, and human-computer interaction. 
 - I am especially interested in how we can use **decolonial computing** methods such an ethnographically informed algorithmic auditing and community-centered design to expose and combat the **systematic and systemic social biases** prevalent in language models.
-- As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of linguistics, computer science, cognitive science, and sociology. Currently as part of my Ph.D. coursework, I am developing practical skills in multimodal machine learning and information retrieval techniques.
+- As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of linguistics, computer science, cognitive science, and sociology. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** and **information retrieval** techniques.
 
 # Highlights
 - (Oct. 2024) Celebrated my **25th** birthday 🥳!
@@ -25,8 +25,7 @@ Hi, I'm Dan! Here is some information about me:
 
 # Prior Experience
 - I was recently a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/comphcilab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.
-- Prior to this, I was an undergrad at [Macalester College](https://www.macalester.edu/) (Go Scots!) where I majored in Linguistics. Alongside my coursework, I also completed an Honor's Project titled: [Don’t Beep At Me: Using Google Maps APIs to Reduce Driving Anxiety](https://digitalcommons.macalester.edu/mathcs_honors/69/).
+- Before all of this, I completed my undergrad at [Macalester College](https://www.macalester.edu/) (Go Scots!) in St. Paul, Minnesota where I majored in Linguistics. Alongside my coursework, I also completed an Honor's Project titled: [Don’t Beep At Me: Using Google Maps APIs to Reduce Driving Anxiety](https://digitalcommons.macalester.edu/mathcs_honors/69/).
 
 # Contact Me
-
 Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:dchechel@cmu.edu) for good measure.

@@ -25,7 +25,7 @@ Hi, I'm Dan! Here is some information about me:
 
 # Prior Experience
 - I was recently a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/comphcilab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.
-- Before that, I spend four amazing years at [Macalester College](https://www.macalester.edu/) in St. Paul, Minnesota. Alongside my coursework, I also completed an [honors project](https://digitalcommons.macalester.edu/mathcs_honors/69/) where I prototyped a Google Maps extension designed to reduce driving anxiety. I am still a very active as part of the alumni community at [yMac](https://www.macalester.edu/alumni/groups/ymac/), so if you are a current Macalester student or a recent grad please don't hesitate to reach out! Go Scots!
+- Before that, I spend four amazing years at [Macalester College](https://www.macalester.edu/) in St. Paul, Minnesota. Alongside my coursework, I also completed an [honors project](https://digitalcommons.macalester.edu/mathcs_honors/69/) where I prototyped a Google Maps extension designed to reduce driving anxiety. I am still a very active as part of the alumni community at [yMac](https://www.facebook.com/groups/yMac1/), so if you are a current Macalester student or a recent grad please don't hesitate to reach out! Go Scots!
 
 # Contact Me
 Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:dchechel@cmu.edu) for good measure.

@@ -20,7 +20,7 @@ Hi, I'm Dan! Here is some information about me:
 - As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** and **information retrieval** techniques.
 
 # Highlights
-- (Oct. 2024) Celebrated my **25th** birthday 🥳!
+- (Oct. 2024) Celebrated my 25th birthday 🥳!
 - (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 
 # Prior Experience

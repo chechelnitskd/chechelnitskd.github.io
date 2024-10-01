@@ -26,7 +26,6 @@ Hi, I'm Dan! Here is some information about me:
 # Prior Experience
 - I was recently a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/comphcilab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.
 - Prior to this, I was an undergrad at [Macalester College](https://www.macalester.edu/) (Go Scots!) where I majored in Linguistics. Alongside my coursework, I also completed an Honor's Project titled: [Don’t Beep At Me: Using Google Maps APIs to Reduce Driving Anxiety](https://digitalcommons.macalester.edu/mathcs_honors/69/).
-- And finally before all of this, I graduated high school from [Irondale High School](https://irondale.mvpschools.org/) (Go Knights!) in New Brighton, Minnesota where I organized and hosted the school's inagural [NACLO](https://naclo.org/) competition.
 
 # Contact Me
 

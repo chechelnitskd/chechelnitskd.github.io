@@ -16,7 +16,7 @@ Hi, I'm Dan! Here is some information about me:
 
 # Interests
 - I am broadly interested in **computational social science**, natural language processing, and human-computer interaction. 
-- I am especially interested in how we can use **decolonial computing** methods such an ethnographically informed algorithmic auditing and community-centered design to expose and combat the **systematic and systemic social biases** prevalent in language models.
+- I am especially interested in how we can use **decolonial computing** methods such an ethnographically informed algorithmic auditing and community-centered design to expose and combat the **systematic and systemic biases** prevalent in language models.
 - As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** and **information retrieval** techniques.
 
 # Highlights
@@ -25,7 +25,7 @@ Hi, I'm Dan! Here is some information about me:
 
 # Prior Experience
 - I was recently a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/comphcilab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.
-- Before that, I was a Linguistics major at [Macalester College](https://www.macalester.edu/) in St. Paul, Minnesota (Go Scots!). Alongside my coursework, I completed an [Honors Project](https://digitalcommons.macalester.edu/mathcs_honors/69/) that prototyped a Google Maps extension designed to reduce driving anxiety.
+- Before that, I attended from [Macalester College](https://www.macalester.edu/) in St. Paul, Minnesota. Alongside my coursework, I also completed an [honors project](https://digitalcommons.macalester.edu/mathcs_honors/69/) where I prototyped a Google Maps extension designed to reduce driving anxiety. I am still a very active as part of the alumni community at [yMac](https://www.macalester.edu/alumni/groups/ymac/), so if you are a current Macalester student or a recent grad please don't hesitate to reach out! Go Scots!
 
 # Contact Me
 Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:dchechel@cmu.edu) for good measure.

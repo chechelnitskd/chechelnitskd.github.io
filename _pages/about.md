@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm Dan! Here is some information about me:
-- I am a first-year Dual Degree Ph.D. Student at [Instituto Superior Técnico's Department of Computer Science and Engineering](https://dei.tecnico.ulisboa.pt/) and at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/).
+- I am a first-year Ph.D. Student at [Instituto Superior Técnico's Department of Computer Science and Engineering](https://dei.tecnico.ulisboa.pt/) and at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/).
 - I am very fortunate to be co-advised by Professors [Chrysoula Zerva](https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en&oi=ao) and [Maarten Sap](https://maartensap.com/).
 - I speak English and Russian fluently. I am also conversational in Mandarin Chinese, Portuguese, and Turkish.
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2024.pdf).

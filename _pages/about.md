@@ -21,7 +21,7 @@ Hi, I'm Dan! Here is some information about me:
 
 # Highlights
 - (Apr. 2025) A paper I co-authored with [Jeffrey Basoah](https://tat-lab.github.io/people/basoah/) got accepted to FAccT 2025! See you in Athens!🇬🇷
-- (Jan. 2025) A paper I helped write with [Joel Mire](https://joelmire.notion.site/) and [Zubin Aysola](https://www.linkedin.com/in/zubin-aysola/) got accepted to NAACL Findings!
+- (Jan. 2025) A [paper](https://arxiv.org/abs/2502.12858) I helped write with [Joel Mire](https://joelmire.notion.site/) and [Zubin Aysola](https://www.linkedin.com/in/zubin-aysola/) got accepted to NAACL Findings!
 - (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 
 # Prior Experience

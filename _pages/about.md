@@ -20,6 +20,7 @@ Hi, I'm Dan! Here is some information about me:
 - As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** and **information retrieval** techniques.
 
 # Highlights
+- (Apr. 2025) A paper I co-authored with [Jeffrey Basoah](https://tat-lab.github.io/people/basoah/) got accepted to FAccT 2025! See you in Athens!🇬🇷
 - (Jan. 2025) A paper I helped write with [Joel Mire](https://joelmire.notion.site/) and [Zubin Aysola](https://www.linkedin.com/in/zubin-aysola/) got accepted to NAACL Findings!
 - (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 

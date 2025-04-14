@@ -17,7 +17,7 @@ Hi, I'm Dan! Here is some information about me:
 # Interests
 - I am broadly interested in **computational social science**, natural language processing, and human-computer interaction. 
 - I am especially interested in how we can use **decolonial computing** methods such as ethnographically informed algorithmic auditing and community-centered design to expose and combat the **systematic and systemic biases** prevalent in language models.
-- As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** and **information retrieval** techniques.
+- As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** techniques.
 
 # Highlights
 - (Apr. 2025) A paper [Jeffrey Basoah](https://tat-lab.github.io/people/basoah/) and I wrote got accepted to FAccT! See you in Athens!

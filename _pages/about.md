@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm Dan! Here is some information about me:
-- I am a first-year Ph.D. Student at [Instituto Superior Técnico's Department of Computer Science and Engineering](https://dei.tecnico.ulisboa.pt/). I am also affiliated with the [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) through the [CMU Portugal Program](https://cmuportugal.org/).
+- I am a first-year Ph.D. Student at [Instituto Superior Técnico's Department of Computer Science and Engineering](https://dei.tecnico.ulisboa.pt/). I am also affiliated with [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) through the [CMU Portugal Program](https://cmuportugal.org/).
 - I am very fortunate to be co-advised by Professors [Chrysoula Zerva](https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en&oi=ao) and [Maarten Sap](https://maartensap.com/).
 - I speak English and Russian fluently. I am also conversational in Mandarin Chinese and Portuguese.
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2024.pdf).
@@ -20,8 +20,7 @@ Hi, I'm Dan! Here is some information about me:
 - As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** techniques.
 
 # Highlights
-- (Jun. 2025) [Paper Link Coming Soon] I am attending FAccT to present a paper I helped [Jeffrey Basoah](https://jeffreybasoah.github.io/) write on user perceptions of LLM sociolect usage!
-- (Apr. 2025) [[Paper Link](https://aclanthology.org/2025.findings-naacl.417/)] My labmate [Joel Mire](https://joelmire.notion.site/Joel-Mire-6303a5459e1942e8981f1dbcc73b1f04) wrote a paper on evaluating dialect biases in reward models which got published in NAACL Findings!
+- (Jun. 2025) [Paper Link Coming Soon] I am attending FAccT to present a paper I collaborated on with [Jeffrey Basoah](https://jeffreybasoah.github.io/) about user perceptions of LLM sociolect usage!
 - (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 
 # Prior Experience

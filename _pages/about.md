@@ -20,7 +20,6 @@ Hi, I'm Dan! Here is some information about me:
 - As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** techniques.
 
 # Highlights
-- (Jun. 2025) [Paper Link Coming Soon] I am attending FAccT to present a paper I collaborated on with [Jeffrey Basoah](https://jeffreybasoah.github.io/) about user perceptions of LLM sociolect usage!
 - (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 
 # Prior Experience

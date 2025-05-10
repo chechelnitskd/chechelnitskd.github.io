@@ -20,8 +20,8 @@ Hi, I'm Dan! Here is some information about me:
 - As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** techniques.
 
 # Highlights
-- (Jun. 2025) [(Paper Link)[]] I am attending FAccT to present a paper I helped ([Jeffrey Basoah](https://jeffreybasoah.github.io/) write on user perceptions of LLM sociolect usage!
-- (Apr. 2025) [[Paper Link](https://arxiv.org/abs/2502.12858)] My labmate [Joel Mire](https://joelmire.notion.site/Joel-Mire-6303a5459e1942e8981f1dbcc73b1f04) wrote a paper on evaluating dialect biases in reward models which got published at NAACL Findings!
+- (Jun. 2025) (Paper Link Coming Soon) I am attending FAccT to present a paper I helped ([Jeffrey Basoah](https://jeffreybasoah.github.io/) write on user perceptions of LLM sociolect usage!
+- (Apr. 2025) [[Paper Link](https://arxiv.org/abs/2502.12858)] My labmate [Joel Mire](https://joelmire.notion.site/Joel-Mire-6303a5459e1942e8981f1dbcc73b1f04) wrote a paper on evaluating dialect biases in reward models which got published in NAACL Findings!
 - (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 
 # Prior Experience

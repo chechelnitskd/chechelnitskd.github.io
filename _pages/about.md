@@ -15,9 +15,9 @@ Hi, I'm Dan! Here is some information about me:
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2024.pdf).
 
 # Interests
-- I am broadly interested in **computational social science**, natural language processing, and human-computer interaction. 
-- I am especially interested in how we can use **decolonial computing** methods like ethnographically informed algorithmic auditing and community-centered design to expose and combat the **systematic and systemic biases** prevalent in language models.
-- As an aspiring researcher, I am constantly looking to expand my knowledge and learn more about recent developments in the fields of computer science and linguistics. Currently as part of my Ph.D. coursework, I am developing practical skills in **multimodal machine learning** techniques.
+- I am broadly interested in **computational social science**, natural language processing, and human-computer interaction.
+- I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more **speaker-centered** translation and multilingual systems.
+- I am also curious at observing, with **semantic and pragmatic** approaches, how language models can used to include for more linguistic flexibility with regards to **dialectal and idiolectal variation**.
 
 # Highlights
 - (Jun. 2025) I presented a [paper](https://arxiv.org/abs/2505.05660) [Jeffrey Basoah](https://jeffreybasoah.github.io/) and I wrote about LLMs' usage of sociolects at FAccT in Athens 🇬🇷!

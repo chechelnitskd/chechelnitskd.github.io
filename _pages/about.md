@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Dan! Here is some information about me:
 - I am a second-year Ph.D. Student at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/), supported by a [CMU Portugal Program](https://cmuportugal.org/) Scholarship.
-- I am very fortunate to be co-advised by Professors [Maarten Sap](https://maartensap.com/) and [Chrysoula Zerva](https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en&oi=ao).
+- I am very fortunate to be co-advised by [Maarten Sap](https://maartensap.com/) and [Chrysoula Zerva](https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en&oi=ao).
 - I speak English and Russian fluently. I am also conversational in Belarusian, Mandarin Chinese, and Portuguese.
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2025.pdf).
 

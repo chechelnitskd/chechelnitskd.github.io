@@ -16,7 +16,7 @@ Hi, I'm Dan! Here is some information about me:
 
 # Interests
 - I am broadly interested in **multilingual NLP**, human-computer interaction, computational social science, and linguistics.
-- I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more **speaker-centered** translation and multilingual systems, with specific emphasis on **minoritized dialects and low resource languages**.
+- I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more **speaker-centered** translation and multilingual systems, with specific emphasis on **minoritized dialects and low resourced languages**.
 
 # Highlights
 - (Jun. 2025) I presented a [paper](https://arxiv.org/abs/2505.05660) [Jeffrey Basoah](https://jeffreybasoah.github.io/) and I wrote about LLMs' usage of sociolects at FAccT in Athens 🇬🇷!

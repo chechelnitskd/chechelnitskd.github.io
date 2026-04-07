@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Dan! Here is some information about me:
 - I am an incoming Ph.D. Student at [Instituto de Telecomunicações](https://www.it.pt/). I am also affiliated with [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) through [CMU Portugal](https://cmuportugal.org/).
-- I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap (@ CMU)](https://maartensap.com/).
+- I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap](https://maartensap.com/).
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2025.pdf).
 
 # Interests
@@ -19,7 +19,6 @@ Hi, I'm Dan! Here is some information about me:
 
 # Highlights
 - (Jun. 2025) I presented a [paper](https://arxiv.org/abs/2505.05660) [Jeffrey Basoah](https://jeffreybasoah.github.io/) and I wrote about LLMs' usage of sociolects at FAccT in Athens 🇬🇷!
-- (Aug. 2024) I moved to Pittsburgh to begin my PhD!
 
 # Prior Experience
 - I was previously a research assistant for [Nikola Banovic](https://www.nikolabanovic.net/) and [Nel Escher](https://kescher.github.io/cool-zone/) in the [Computational HCI Lab](https://x.com/comphcilab) at the University of Michigan. I was also formerly a [SULI Intern](https://science.osti.gov/wdts/suli) at Argonne National Laboratory and a [DSI Summer Lab RA](https://datascience.uchicago.edu/education/summerlab/) at the University of Chicago Data Science Institute.

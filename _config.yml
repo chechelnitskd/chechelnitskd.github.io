@@ -78,12 +78,12 @@ social:
 author:
   name             : "Daniel Chechelnitsky"
   avatar           : "profile.png"
-  bio              : "PhD Student at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "PhD Student at Instituto de Telecomunicações"
+  location         : "Lisbon, Portugal"
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-fBi7PQAAAAJ&hl=en"
-  email            : "dchechel@cmu.edu"
+  email            : "daniel.chechelnitsky@tecnico.ulisboa.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :

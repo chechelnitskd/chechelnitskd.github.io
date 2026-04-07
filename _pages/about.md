@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm Dan! Here is some information about me:
-- I am an incoming Ph.D. Student at [Instituto de Telecomunicações](https://www.it.pt/), affiliated with [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) through [CMU Portugal](https://cmuportugal.org/).
+- I am an incoming Ph.D. Student at [Instituto de Telecomunicações](https://www.it.pt/). I am also affiliated with [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) through [CMU Portugal](https://cmuportugal.org/).
 - I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap (@ CMU)](https://maartensap.com/).
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2025.pdf).
 

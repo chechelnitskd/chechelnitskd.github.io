@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 Hi, I'm Dan! Here is some information about me:
-- I am a second-year Ph.D. Student at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/), supported by a [CMU Portugal Program](https://cmuportugal.org/) Scholarship.
-- I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [Maarten Sap](https://maartensap.com/), and [Chrysoula Zerva](https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en&oi=ao).
-- I speak English and Russian fluently. I am also conversational in Belarusian, Mandarin Chinese, and Portuguese.
+- I am an incoming Ph.D. Student at [Instituto de Telecomunicações](https://www.it.pt/), affiliated with [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) through [CMU Portugal](https://cmuportugal.org/).
+- I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap (@ CMU)](https://maartensap.com/).
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2025.pdf).
 
 # Interests
@@ -27,4 +26,4 @@ Hi, I'm Dan! Here is some information about me:
 - Before that, I spent four impactful years at [Macalester College](https://www.macalester.edu/) in St. Paul, Minnesota. Alongside my coursework, I also completed an [honors project](https://digitalcommons.macalester.edu/mathcs_honors/69/) where I prototyped a Google Maps extension designed to reduce driving anxiety. I am still a very active part of the alumni community at [yMac](https://www.facebook.com/groups/yMac1/), so if you are a current Macalester student or a recent grad please don't hesitate to reach out! Go Scots!
 
 # Contact Me
-Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:dchechel@cmu.edu) for good measure.
+Please feel free to contact me! My email address is linked on the sidebar, but here is [another link](mailto:daniel.chechelnitsky@tecnico.ulisboa.pt) for good measure.

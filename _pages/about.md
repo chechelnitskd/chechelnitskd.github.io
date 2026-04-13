@@ -11,6 +11,7 @@ redirect_from:
 Hi, I'm Dan! Here is some information about me:
 - I am a second-year Ph.D. student at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) funded by [CMU Portugal](https://cmuportugal.org/).
 - I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap](https://maartensap.com/).
+- I am a member of both the [Sardine 🐟](https://sardine-lab.github.io/) and [Sapling 🌱](https://maartensap.com/index.html) Labs, making me a Sap-line 🤷?
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2025.pdf).
 
 # Interests

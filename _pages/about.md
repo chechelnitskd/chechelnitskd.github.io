@@ -19,7 +19,6 @@ Hi, I'm Dan! Here is some information about me:
 - I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more speaker-centered translation and multilingual systems, with specific emphasis on **minoritized dialects and low resourced languages**.
 
 # Highlights
-- (Jun. 2026) I will be organizing a CRAFT session about finding praxis-based approaches for machine translation within low-resource contexts together with my co-organizers [Seyi Olojo](https://www.seyiolojo.com/) and [Christelle Tessono](https://christelletessono.com/) at FAccT! See you in Montreal 🇨🇦!
 - (Jun. 2025) I [presented](https://www.youtube.com/watch?v=qA7aT0mdYao) a [paper](https://dl.acm.org/doi/full/10.1145/3715275.3732045) [Jeffrey Basoah](https://jeffreybasoah.github.io/) and I wrote about LLMs' usage of sociolects at FAccT in Athens 🇬🇷!
 
 # Prior Experience

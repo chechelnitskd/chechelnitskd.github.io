@@ -19,6 +19,8 @@ Hi, I'm Dan! Here is some information about me:
 - I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more speaker-centered translation and multilingual systems, with specific emphasis on **minoritized dialects and low resourced languages**.
 
 # Highlights
+- (Jul. 2026) I will be attending [LxMLS](https://lxmls.github.io/2026/) this year! See you in-person in Lisbon 🇵🇹!
+- (Jun. 2026) I will be giving a talk about my ongoing [work](https://arxiv.org/abs/2604.00758) as part of [Fondazione Bruno Kessler's (FBK) Machine Translation Unit's](https://mt.fbk.eu/) Seminar Series. See you virtually in Trento 🇮🇹 and online 🖥️!
 - (Jun. 2025) I [presented](https://www.youtube.com/watch?v=qA7aT0mdYao) a [paper](https://dl.acm.org/doi/full/10.1145/3715275.3732045) [Jeffrey Basoah](https://jeffreybasoah.github.io/) and I wrote about LLMs' usage of sociolects at FAccT in Athens 🇬🇷!
 
 # Prior Experience

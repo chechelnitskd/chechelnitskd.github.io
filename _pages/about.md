@@ -12,14 +12,13 @@ Hi, I'm Dan! Here is some information about me:
 - I am a second-year Ph.D. student at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/) funded by [CMU Portugal](https://cmuportugal.org/).
 - I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap](https://maartensap.com/).
 - I am a member of both the [Sardine 🐟](https://sardine-lab.github.io/) and [Sapling 🌱](https://maartensap.com/index.html) Labs, making me a Sap-line 🤷?
-- Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2025.pdf).
+- Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2026.pdf).
 
 # Interests
 - I am broadly interested in **multilingual NLP**, human-computer interaction, computational social science, and linguistics.
 - I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more speaker-centered translation and multilingual systems, with specific emphasis on **minoritized dialects and low resourced languages**.
 
 # Highlights
-- (Jul. 2026) I will be attending [LxMLS](https://lxmls.github.io/2026/) this year! See you in Lisbon 🇵🇹!
 - (Jun. 2025) I [presented](https://www.youtube.com/watch?v=qA7aT0mdYao) a [paper](https://dl.acm.org/doi/full/10.1145/3715275.3732045) [Jeffrey Basoah](https://jeffreybasoah.github.io/) and I wrote about LLMs' usage of sociolects at FAccT in Athens 🇬🇷!
 
 # Prior Experience

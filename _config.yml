@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dan's Website"
+title                    : "Daniel's Website"
 title_separator          : "-"
 name                     : &name "Daniel Chechelnitsky"
 description              : &description "personal description"

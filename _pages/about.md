@@ -19,7 +19,7 @@ Hi, I'm Daniel! Here is some information about me:
 - I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more speaker-centered translation and multilingual systems, with specific emphasis on **minoritized dialects and low resourced languages**.
 
 # Highlights
-- (Oct. 2026) I will present our paper [Locating Translation as a Craft in the Age of AI Translation](https://arxiv.org/abs/2604.00758) at AIES in Malmö 🇸🇪!
+- (Oct. 2026) I will present our paper [Locating Translation as a Craft in the Age of AI](https://arxiv.org/abs/2604.00758) at AIES in Malmö 🇸🇪!
 - (Jun. 2026) Our paper [Making a Name for Myself: On Academic Naming Policies and their Impact](https://dl.acm.org/doi/abs/10.1145/3805689.3806465) won a [Best Paper Honorable Mention](https://facct-blog.github.io/2026-06-25/best-papers) at FAccT in Montreal 🎉!
 - (Jun. 2025) I [presented](https://www.youtube.com/watch?v=qA7aT0mdYao) our paper [Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs](https://dl.acm.org/doi/full/10.1145/3715275.3732045) at FAccT in Athens 🇬🇷!
 

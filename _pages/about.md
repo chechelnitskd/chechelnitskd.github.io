@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Dan! Here is some information about me:
-- I am a third-year Ph.D. student in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) supported by a FCT PhD Studentship.
+Hi, I'm Daniel! Here is some information about me:
+- I am a Ph.D. student in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 - I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap](https://maartensap.com/).
 - I am a member of both the [Sardine 🐟](https://sardine-lab.github.io/) and [Sapling 🌱](https://maartensap.com/index.html) Labs, making me a Sap-line 🤷?
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2026.pdf).
@@ -19,7 +19,7 @@ Hi, I'm Dan! Here is some information about me:
 - I am specifically interested in observing and incorporating **user perspectives** of language technologies into building more speaker-centered translation and multilingual systems, with specific emphasis on **minoritized dialects and low resourced languages**.
 
 # Highlights
-- (Jul. 2026) Our paper [Locating Translation as a Craft in the Age of AI Translation](https://arxiv.org/abs/2604.00758) has been accepted to AIES! See you in Malmö 🇸🇪!
+- (Oct. 2026) I will present our paper [Locating Translation as a Craft in the Age of AI Translation](https://arxiv.org/abs/2604.00758) at AIES in Malmö 🇸🇪!
 - (Jun. 2026) Our paper [Making a Name for Myself: On Academic Naming Policies and their Impact](https://dl.acm.org/doi/abs/10.1145/3805689.3806465) won a [Best Paper Honorable Mention](https://facct-blog.github.io/2026-06-25/best-papers) at FAccT in Montreal 🎉!
 - (Jun. 2025) I [presented](https://www.youtube.com/watch?v=qA7aT0mdYao) our paper [Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs](https://dl.acm.org/doi/full/10.1145/3715275.3732045) at FAccT in Athens 🇬🇷!
 

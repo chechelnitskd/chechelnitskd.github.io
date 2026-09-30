@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# NOTE: I am actively seeking internship opportunities for Summer 2027 🔎!
+# I am actively seeking internship opportunities for Summer 2027 🔎!
 
 # About me
 Hi, I'm Daniel! Here is some information about me:

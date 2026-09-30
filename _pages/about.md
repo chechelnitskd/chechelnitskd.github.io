@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-# I am actively seeking internship opportunities for Summer 2027 🔎!
-
-# About me
 Hi, I'm Daniel! Here is some information about me:
 - I am a Ph.D. student at Carnegie Mellon University's [Language Technologies Institute](https://www.lti.cs.cmu.edu/) and at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) through the [CMU Portugal](https://cmuportugal.org/) Program.
 - I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap](https://maartensap.com/).
 - I am a member of both the [Sardine 🐟](https://sardine-lab.github.io/) and [Sapling 🌱](https://maartensap.com/index.html) Labs, making me a Sap-line 🤷?
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2026.pdf).
+- ***I am actively seeking internship opportunities for Summer 2027 🔎!***
 
 # Interests
 - I am broadly interested in **multilingual NLP**, human-computer interaction, computational social science, and linguistics.

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- # 🔎 I am actively seeking internship opportunities for Summer 2027!
+# 🔎 I am actively seeking internship opportunities for Summer 2027!
 
 Hi, I'm Daniel! Here is some information about me:
 - I am a Ph.D. student at Carnegie Mellon University's [Language Technologies Institute](https://www.lti.cs.cmu.edu/) and at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) through the [CMU Portugal](https://cmuportugal.org/) Program.

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Daniel! Here is some information about me:
 - I am a Ph.D. student at Carnegie Mellon University's [Language Technologies Institute](https://www.lti.cs.cmu.edu/) and at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) through the [CMU Portugal](https://cmuportugal.org/) Program.
-- I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), and [Maarten Sap](https://maartensap.com/).
+- I am very fortunate to be co-advised by [Giuseppe Attanasio](https://gattanasio.cc/), [André Martins](https://andre-martins.github.io/), [Maarten Sap](https://maartensap.com/), and [Chrysoula Zerva](https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en).
 - I am a member of both the [Sardine 🐟](https://sardine-lab.github.io/) and [Sapling 🌱](https://maartensap.com/index.html) Labs, making me a Sap-line 🤷?
 - Here is a link to my [curriculum vitae](https://chechelnitskd.github.io/Chechelnitsky_CV_2026.pdf).
 - **I am actively seeking internship opportunities for summer 2027 🔎!**
